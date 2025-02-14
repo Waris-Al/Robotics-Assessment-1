@@ -1,0 +1,7 @@
+    #Where the start is
+    startY = -900
+    startX = 130
+
+    #Where the end is
+    targetY = 860
+    targetX = -120
