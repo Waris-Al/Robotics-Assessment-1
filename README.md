@@ -6,3 +6,6 @@ The tasks attempted include: <br>
 -Find quickest route out of the maze <br>
 -Map the maze <br>
 -Return back home <br>
+
+<br><br>
+Code in other branches is experimental and can be ignored. Main contains the most up to date working code.
